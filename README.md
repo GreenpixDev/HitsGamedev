@@ -18,7 +18,7 @@
 
 **Минимальные системные требования:**
 
-- ОС: Windows XP/Vista
+- ОС: Windows XP/Vista / MacOS / Linux
 - Процессор: 2 GHz
 - Оперативная память: 4 GB RAM
 - Видеокарта: 512 MB dedicated VRAM
